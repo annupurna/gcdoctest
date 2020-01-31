@@ -9,15 +9,7 @@ An annotation is a visual element to mark or highlight specific location on a pa
 GcPdf offers a variety of standard annotation types as described below.
 
 
-!![testepic.jpg]('https://www.grapecity.com/documents-api-pdf/demos/')
-
-
-
-<div id="anchor-text-here" class="collapse">
-1. step 1
-2. step 2
-3. step 3  and so on... 
-</div>
+!![testepic.jpeg]('https://www.grapecity.com/documents-api-pdf/demos/')
 
 #### Text annotation  
 GcPdf provides TextAnnotation class that lets you display the annotation as a sticky note attached to a location in a PDF document. This annotation appears as an icon in closed state, which on clicking displays a pop-up window with associated text in the open state.
