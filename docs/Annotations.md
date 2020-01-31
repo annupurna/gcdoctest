@@ -9,7 +9,7 @@ An annotation is a visual element to mark or highlight specific location on a pa
 GcPdf offers a variety of standard annotation types as described below.
 
 
-!![testepic.jpg]('./animations/demographics.html')
+!![testepic.jpg]('https://www.grapecity.com/documents-api-pdf/demos/')
 
 
 #### Text annotation  
